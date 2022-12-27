@@ -8,9 +8,14 @@ body {
   margin: 0;
 }
 
+.container {
+}
+
 .flashcards-content {
   max-width: 900px;
   margin: 1rem 2rem;
+  margin: auto;
+  padding-top: 30px;
 }
 
 .header {
